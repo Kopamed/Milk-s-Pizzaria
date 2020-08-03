@@ -26,9 +26,9 @@ while True:
     
 
     size = input("""What crust do you want?
-1. Small
-2. Medium
-3. Large.""")
+1. Thin
+2. Normal
+3. Cheesy.""")
 
 
     if size == "1":
@@ -55,7 +55,7 @@ why you do that?
 larg
 
 its easier to choos
-
+Whats with the double qoutations? wait gimme as eesec
 '''
         
     
